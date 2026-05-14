@@ -31,3 +31,8 @@ webhook integrations, and enterprise security controls.
 - Google AI Studio
 - Gemini 2.5 Flash
 - Metaprompting techniques
+
+## Related Projects
+
+- [Real-Time GCP Data Pipeline](https://github.com/Bilal070297/gcp-real-time-data-pipeline) 
+  — Streaming pipeline using Pub/Sub, Apache Beam/Dataflow, and BigQuery
